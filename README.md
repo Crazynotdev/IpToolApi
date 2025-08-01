@@ -14,6 +14,13 @@
 
 ---
 
+
+<img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="80"/>
+
+
+
 🚀 Fonctionnalité
 
 - 🔍 Obtenir la ville, pays et ISP d'une IP
